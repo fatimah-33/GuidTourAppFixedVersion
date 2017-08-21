@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Guide Tour App</string>
+
+    <array name="restaurant_names">
+        <item>Orgami</item>
+        <item>Lozanna</item>
+        <item>Sweet and Chilly</item>
+        <item>Baharat Meal</item>
+    </array>
+    <array name="restaurant_type">
+        <item>Britain</item>
+        <item>China</item>
+        <item>Italy</item>
+        <item>Gulf</item>
+    </array>
+    <array name="shopping_names">
+        <item>Al-Othem Mall</item>
+        <item>Al-hasa Mall</item>
+        <item>AL-Qysariah</item>
+        <item>Al-Najah</item>
+    </array>
+    <array name="shopping_location">
+        <item>Center Al-hasa</item>
+        <item>West Al-hasa</item>
+        <item>South Al-hasa</item>
+        <item>East Al-hasa</item>
+    </array>
+    <array name="hotel_names">
+        <item>Al Ahsa InterContinental</item>
+        <item>Coral Al Ahsa Hotel</item>
+        <item>Grand Lily Hotel Suites</item>
+        <item>Garden Plaza Hotel</item>
+    </array>
+    <array name="star_rating">
+        <item>Five star</item>
+        <item>Four star</item>
+        <item>Six star</item>
+        <item>Three star</item>
+    </array>
+    <array name="hospital_names">
+        <item>Al-Kefah Hospital</item>
+        <item>Aljaber</item>
+        <item>Bin Jalawe</item>
+        <item>Al-hasa Hospital</item>
+    </array>
+    <array name="hospital_type">
+        <item>Women and babies</item>
+        <item>Eyes and Throat</item>
+        <item>Heart disease</item>
+        <item>Internal Medicine</item>
+    </array>
+</resources>
